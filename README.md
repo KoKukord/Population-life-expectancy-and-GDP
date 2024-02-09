@@ -33,7 +33,7 @@ a) Jak zmieniał się w czasie produkt Krajowy Brutto oraz Produkt Krajowy Brutt
 
 b) Jak kształtowała się coroczna zmiana procentowa (Year-Over-Year) PKB w wybranym kraju?
 
-c) Które kraje są na czele mają najwyższy wskaźnik PKB oraz PKB na mieszkańca w wybranym regionie?
+c) Które kraje mają najwyższy wskaźnik PKB oraz PKB na mieszkańca w wybranym regionie?
 
 d) Jaka nastapiła zmiana w PKB w ciągu 5 lat/20 lat/ całego okresu pomiarów?
 
