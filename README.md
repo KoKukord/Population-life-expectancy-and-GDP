@@ -13,18 +13,30 @@ opracowana przez Organizację Narodów Zjednoczonych. Drugi raport "GDP adn GDP 
 PYTANIA
 
 Raport "Population and life expectancy by country" pozwala odpowiedzieć na pytania:
+
 a) Jaka jest historyczna i prognozowana populacja oraz średnia długość życia w wybranym kraju?
+
 b) Które kraje są na czele danego regionu w kwestii liczebności populacji i długości życia?
+
 c) Jaka jest relacja płci w domenie liczebności i długości życia w wybranym kraju?
+
 d) Jak kształtowała się relacja populacji mieszkańców zachodnich krajów w kontrze do populacji reszty świata?
+
 e) e) Jaką średnią długość życia prezentuje najstarszy i najmłodszy populacyjnie kraj regionu?
 
+
 Raport "GDP adn GDP Per Capita by country" pozwala odpowiedzieć na pytania:
+
 a) Jak zmieniał się w czasie produkt Krajowy Brutto oraz Produkt Krajowy Brutto na mieszkańca w wybranym kraju?
+
 b) Jak kształtowała się coroczna zmiana procentowa (Year-Over-Year) PKB w wybranym kraju?
+
 c) Które kraje są na czele mają najwyższy wskaźnik PKB oraz PKB na mieszkańca w wybranym regionie?
+
 d) Jaka nastapiła zmiana w PKB w ciągu 5 lat/20 lat/ całego okresu pomiarów?
+
 e) Jakie PKB i PKB na mieszkańca posiada najzamożniejszy i najuboższy kraj regionu?
+
 f) Jak kształtowała się relacja PKB mieszkańców zachodnich krajów w kontrze do populacji reszty świata?
 
 ZAŁĄCZNIKI
