@@ -25,6 +25,7 @@ d) Jak kształtowała się relacja populacji mieszkańców zachodnich krajów w 
 e) e) Jaką średnią długość życia prezentuje najstarszy i najmłodszy populacyjnie kraj regionu?
 
 
+
 Raport "GDP adn GDP Per Capita by country" pozwala odpowiedzieć na pytania:
 
 a) Jak zmieniał się w czasie produkt Krajowy Brutto oraz Produkt Krajowy Brutto na mieszkańca w wybranym kraju?
