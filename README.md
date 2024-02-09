@@ -22,7 +22,7 @@ c) Jaka jest relacja płci w domenie liczebności i długości życia w wybranym
 
 d) Jak kształtowała się relacja populacji mieszkańców zachodnich krajów w kontrze do populacji reszty świata?
 
-e) e) Jaką średnią długość życia prezentuje najstarszy i najmłodszy populacyjnie kraj regionu?
+e) Jaką średnią długość życia prezentuje najstarszy i najmłodszy populacyjnie kraj regionu?
 
 
 
