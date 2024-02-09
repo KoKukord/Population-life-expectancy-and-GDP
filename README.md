@@ -26,6 +26,7 @@ e) Jaką średnią długość życia prezentuje najstarszy i najmłodszy populac
 
 
 
+
 Raport "GDP adn GDP Per Capita by country" pozwala odpowiedzieć na pytania:
 
 a) Jak zmieniał się w czasie produkt Krajowy Brutto oraz Produkt Krajowy Brutto na mieszkańca w wybranym kraju?
