@@ -1,6 +1,6 @@
 OPIS TECHNICZNY
 
-Projekt w zamierzeniu został w całości utworzony z pomocą narzędzia Power BI (czyszczenie, transformacja, analiza, wizualizacja danych). Instrukcja techniczna "krok-po-kroku" znajduje się w osobnym pliku.
+Projekt w zamierzeniu został utworzony z pomocą narzędzia Power BI (czyszczenie, transformacja, analiza, wizualizacja danych). Instrukcja techniczna "krok-po-kroku" znajduje się w osobnym pliku.
   
 
 OPIS
