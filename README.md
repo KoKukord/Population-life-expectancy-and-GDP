@@ -46,3 +46,4 @@ ZAŁĄCZNIKI
 - Projekt w formacie .pbix
 - Instrukcja techniczna w formacie .docx
 - Filmy z projektu w formacie .mp4
+- Zdjęcia z projektu w formacie .jpg
